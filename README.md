@@ -63,3 +63,10 @@ two business days.
 Quarterly rate cards are published by treasury on the first working day of
 the cycle. The reseller desk does not maintain its own price records;
 always reference the catalog repository for the current cycle.
+
+<!-- reseller-program-note:begin -->
+### Reseller Program Note - FY26-Q3
+
+Reference amount: HK$12,180.00 per unit
+Sourcing tier: Tier B
+<!-- reseller-program-note:end -->
